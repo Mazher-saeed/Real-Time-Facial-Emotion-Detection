@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Large files (optional, agar space save karna ho)
+model.h5
+data/
+*.csv
